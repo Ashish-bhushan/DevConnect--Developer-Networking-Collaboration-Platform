@@ -234,8 +234,8 @@ DevTinder showcases a real-world application combining **social networking**, **
 
 ## 👨‍💻 Author
 
-**Ashish Bhushan Singh Singh**
-Full Stack MERN | full stack java dev.
+**Ashish Bhushan Singh**
+(Full Stack MERN | full stack java dev.)
 
 ---
 
